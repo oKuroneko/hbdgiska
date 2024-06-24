@@ -19,6 +19,10 @@ body{
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
 }
+.mini{
+    font-size: 3rem;
+    font-weight: 450;
+}
 @keyframes glow{
     0%, 100%{
         color: #fff;
