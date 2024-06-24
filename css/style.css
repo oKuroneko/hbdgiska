@@ -23,6 +23,9 @@ body{
     font-size: 3rem;
     font-weight: 450;
 }
+.mini > span{
+    animation: no;
+}
 @keyframes glow{
     0%, 100%{
         color: #fff;
